@@ -4,7 +4,6 @@
 ---
 Welcome to my portfolio! I'm a data science and analytics enthusiast passionate about transforming raw data into valuable insights. This page showcases my projects in data analysis, machine learning, and business intelligence.  
 
-### About me
 I'm transitioning from a mechanical engineering background to data science, leveraging my analytical skills to solve complex business problems. Currently, I specialize in data analysis, machine learning, and data visualization. Additionally, I'm expanding my expertise in AWS cloud services to build scalable data solutions.  
 
 ---
