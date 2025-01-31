@@ -1,5 +1,6 @@
 ## **Vinicius Giacomini Frantz** 
 ### *Data Science & Analytics Portfolio*
+
 ---
 Welcome to my portfolio! I'm a data science and analytics enthusiast passionate about transforming raw data into valuable insights. This page showcases my projects in data analysis, machine learning, and business intelligence.  
 
