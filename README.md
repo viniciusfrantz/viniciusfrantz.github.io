@@ -9,25 +9,28 @@ I'm transitioning from a mechanical engineering background to data science, leve
 ---
 
 ##  **Projects**
+## Data Science
+### **[1. Employee Attrition Prevention: Predicting and addressing key drivers of employee turnover](https://github.com/viniciusfrantz/data_science/blob/master/hr_emp_sat/HR_project_ML.ipynb)**  
+- **Overview:** This project focuses on predicting which employees are likely to leave the company and identifying the key factors contributing to their potential attrition.  
+- **Tools & Techniques:** Python, Feature Engineering, Logistic Regression, Random Forest, Decision Trees, XGBoost, Model Evaluation Metrics,  Data Preprocessing  
+- **Key Achievements:**
+  - Built predictive models using HR data.
+  - Identified key features contributing to attrition, such as workload, job satisfaction, and years at the company.
+  - Developed recommendations for improving retention and reducing turnover.
 
-### **[1. Employee Attrition Prevention: Predicting and addressing key drivers of employee turnover](https://github.com/viniciusfrantz/data_science/blob/master/hr_emp_sat/HR_project_ML.ipynb)**  
-- **Overview:** This project focuses on predicting which employees are likely to leave the company and identifying the key factors contributing to their potential attrition.  
-- **Tools & Techniques:** Python, Feature Engineering, Logistic Regression, Random Forest, Decision Trees, XGBoost, Model Evaluation Metrics,  Data Preprocessing  
-- **Key Achievements:**
-  - Built predictive models using HR data.
-  - Identified key features contributing to attrition, such as workload, job satisfaction, and years at the company.
-  - Developed recommendations for improving retention and reducing turnover.
-__
-### **[1. Employee Attrition Prevention: Predicting and addressing key drivers of employee turnover](https://github.com/viniciusfrantz/data_science/blob/master/hr_emp_sat/HR_project_ML.ipynb)**  
-- **Overview:** This project focuses on predicting which employees are likely to leave the company and identifying the key factors contributing to their potential attrition.  
-- **Tools & Techniques:** Python, Feature Engineering, Logistic Regression, Random Forest, Decision Trees, XGBoost, Model Evaluation Metrics,  Data Preprocessing  
-- **Key Achievements:**
-  - Built predictive models using HR data.
-  - Identified key features contributing to attrition, such as workload, job satisfaction, and years at the company.
-  - Developed recommendations for improving retention and reducing turnover.
----
-### **[2. Real State Analysis using web scraping in Power BI]
-(https://github.com/viniciusfrantz/data_science/blob/master/BI%20-%20visualization/Imoveis_BC_1vs.pbix)**
+## Data Analytics/ BI
+### **[2. Real State Analysis using web scraping in Power BI](https://github.com/viniciusfrantz/data_science/blob/master/BI%20-%20visualization/Imoveis_BC_1vs.pbix)**
+#### Features:  
+- Web scraping for real estate data collection  
+- Interactive Power BI dashboard  
+- Price analysis by location and property type  
+
+####  How to Use: 
+  1. Download the **[.PBIX file](https://github.com/viniciusfrantz/data_science/blob/master/BI%20-%20visualization/Imoveis_BC_1vs.pbix)**  
+  2. Open in **Power BI Desktop**  
+  3. Explore insights and trends  
+
+Check it out and feel free to contribute! 🚀 
 ---
 ## **Skills**  
 - **Programming:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)  
