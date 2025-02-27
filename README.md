@@ -28,9 +28,8 @@ I'm transitioning from a mechanical engineering background to data science, leve
 ####  How to Use: 
   1. Download the **[.PBIX file](https://github.com/viniciusfrantz/data_science/blob/master/BI%20-%20visualization/Imoveis_BC_1vs.pbix)**  
   2. Open in **Power BI Desktop**  
-  3. Explore insights and trends  
-
-Check it out and feel free to contribute! 🚀 
+  3. Explore insights and trends
+     
 ---
 ## **Skills**  
 - **Programming:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)  
