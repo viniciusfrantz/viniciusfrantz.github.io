@@ -28,16 +28,19 @@ I'm transitioning from a mechanical engineering background to data science, leve
 ####  How to Use: 
   1. Download the **[.PBIX file](https://github.com/viniciusfrantz/data_science/blob/master/BI%20-%20visualization/Imoveis_BC_1vs.pbix)**  
   2. Open in **Power BI Desktop**  
-  3. Explore insights and trends
+  3. Explore insights and trends 
 
 ## Data Analytics / SQL  
+### **[3. Data Science Job Market Insights](https://github.com/viniciusfrantz/SQL_project_data_job_analysis/blob/master/README.md)**  
+- **Overview:**
+  This project analyzes job market trends for Data Science roles(2023 dataset), highlighting the most in-demand skills and their corresponding salaries.  
+- **Tools & Techniques:**
+  SQL, Data Wrangling, Aggregations, Joins, CTEs  
+- **Key Insights:** 
+  - **Most in-demand skills:** Python, SQL, AWS, Tableau, Spark  
+  - **Highest paying skills:** Go, C, Looker, BigQuery, Snowflake  
+  - **Demand vs Salary:** While Python and SQL are in high demand, specialized tools like Go and Looker offer higher salaries.  
 
-### **Data Science Job Market Insights**  
-Explore data-driven insights into the demand for Data Science skills, salaries, and industry trends.  
-
-### 🔗 **[View the Full Analysis](https://github.com/viniciusfrantz/SQL_project_data_job_analysis/blob/master/README.md)**  
-
-   
 ---
 ## **Skills**  
 - **Programming:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)  
