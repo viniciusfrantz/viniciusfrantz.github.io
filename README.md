@@ -29,7 +29,15 @@ I'm transitioning from a mechanical engineering background to data science, leve
   1. Download the **[.PBIX file](https://github.com/viniciusfrantz/data_science/blob/master/BI%20-%20visualization/Imoveis_BC_1vs.pbix)**  
   2. Open in **Power BI Desktop**  
   3. Explore insights and trends
-     
+
+## Data Analytics / SQL  
+
+### **Data Science Job Market Insights**  
+Explore data-driven insights into the demand for Data Science skills, salaries, and industry trends.  
+
+### 🔗 **[View the Full Analysis](https://github.com/viniciusfrantz/SQL_project_data_job_analysis/blob/master/README.md)**  
+
+   
 ---
 ## **Skills**  
 - **Programming:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)  
