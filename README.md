@@ -41,6 +41,18 @@ I'm transitioning from a mechanical engineering background to data science, leve
   - **Highest paying skills:** Go, C, Looker, BigQuery, Snowflake  
   - **Demand vs Salary:** While Python and SQL are in high demand, specialized tools like Go and Looker offer higher salaries.  
 
+## **Data Analytics / A/B Testing**  
+### **[4. A/B Testing - Waze Project](https://github.com/viniciusfrantz/data_science/blob/master/AB%20Test/Waze-AB-test.ipynb)**  
+- **Overview:**  
+   This project analyzes the difference in the mean number of drive between iPhone and Android users using A/B testing methodologies.  
+- **Tools & Techniques:**  
+  Python, Pandas, NumPy, Matplotlib, Seaborn, Scipy, Hypothesis Testing (Two-Sample T-Test)
+- **Key Insights:**  
+  - Performed a two-sample t-test to evaluate differences in ride behavior.
+  - Found no statistically significant difference in the number of drives between iPhone and Android users.
+  - Created visualizations to explore drives distribution across devices.
+  - Suggested further analysis to identify other factors influencing drives frequency.
+
 ---
 ## **Skills**  
 - **Programming:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)  
