@@ -3,8 +3,7 @@
 
 ---
 Welcome to my portfolio! I’m passionate about turning raw data into actionable insights through robust analytics, machine learning, and modern data engineering practices. This page highlights my projects across data analysis, machine learning, and data pipelines.
-
-With a background in mechanical engineering, I’m transitioning into data science and engineering — leveraging my analytical mindset to solve real-world business problems. I currently focus on data analysis, machine learning, and cloud-based data engineering using tools like Airflow, dbt, and Snowflake. I’m also expanding my skills in AWS to design scalable, efficient data solutions.
+I currently focus on data analysis, machine learning, and cloud-based data engineering using tools like Airflow, dbt, and Snowflake. I’m also expanding my skills in AWS to design scalable, efficient data solutions.
 
 ---
 ##  **Projects**
