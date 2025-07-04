@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vinicius Giacomini Frantz | Data Portfolio</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f7fa;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #0b5394;
+      color: #fff;
+      padding: 20px 40px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2em;
+    }
+    header h2 {
+      margin: 5px 0 0;
+      font-weight: normal;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    section {
+      margin-bottom: 50px;
+    }
+    h3 {
+      color: #0b5394;
+      border-bottom: 2px solid #0b5394;
+      padding-bottom: 5px;
+    }
+    a {
+      color: #0b5394;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .project {
+      background: #fff;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .skills, .certifications {
+      background: #fff;
+      border-radius: 8px;
+      padding: 20px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #0b5394;
+      color: #fff;
+      margin-top: 50px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Vinicius Giacomini Frantz</h1>
+    <h2>Data Analytics & Engineering Portfolio</h2>
+  </header>
+
+  <div class="container">
+    <section>
+      <p>
+        Welcome to my portfolio! I’m passionate about transforming raw data into actionable insights through analytics, machine learning, and modern data engineering. I focus on data analysis, ML, and cloud-based data engineering with tools like Airflow, dbt, and Snowflake, while expanding skills in AWS for scalable solutions.
+      </p>
+    </section>
+
+    <section>
+      <h3>Projects</h3>
+
+      <div class="project">
+        <h4><a href="https://github.com/viniciusfrantz/data_science/blob/master/hr_emp_sat/HR_project_ML.ipynb">1. Employee Attrition Prevention</a></h4>
+        <p><strong>Overview:</strong> Predicts employee turnover and identifies key drivers using ML models.</p>
+        <p><strong>Tools:</strong> Python, Feature Engineering, Logistic Regression, Random Forest, XGBoost</p>
+        <ul>
+          <li>Built predictive models with HR data.</li>
+          <li>Identified drivers like workload, job satisfaction, tenure.</li>
+          <li>Developed recommendations to reduce attrition.</li>
+        </ul>
+      </div>
+
+      <div class="project">
+        <h4><a href="https://github.com/viniciusfrantz/data_science/blob/master/BI%20-%20visualization/Imoveis_BC_1vs.pbix">2. Real Estate Analysis in Power BI</a></h4>
+        <p><strong>Features:</strong> Web scraping, interactive dashboards, price analysis by location and type.</p>
+        <p><strong>How to Use:</strong> Download the PBIX, open in Power BI Desktop, explore trends.</p>
+      </div>
+
+      <div class="project">
+        <h4><a href="https://github.com/viniciusfrantz/SQL_project_data_job_analysis/blob/master/README.md">3. Data Science Job Market Insights</a></h4>
+        <p><strong>Overview:</strong> Analysis of in-demand skills and salary trends in Data Science (2023 dataset).</p>
+        <p><strong>Tools:</strong> SQL, Joins, CTEs, Aggregations</p>
+        <ul>
+          <li>Most in-demand: Python, SQL, AWS, Tableau, Spark.</li>
+          <li>Highest paying: Go, C, Looker, BigQuery, Snowflake.</li>
+          <li>Specialized tools command higher salaries.</li>
+        </ul>
+      </div>
+
+      <div class="project">
+        <h4><a href="https://github.com/viniciusfrantz/data_science/blob/master/AB%20Test/Waze-AB-test.ipynb">4. A/B Testing - Waze Project</a></h4>
+        <p><strong>Overview:</strong> Two-sample t-test comparing mean drives of iPhone vs Android users.</p>
+        <p><strong>Tools:</strong> Python, Pandas, Scipy, Matplotlib, Seaborn</p>
+        <ul>
+          <li>No significant difference found.</li>
+          <li>Visualized drives distribution.</li>
+          <li>Suggested further analysis on other influencing factors.</li>
+        </ul>
+      </div>
+
+      <div class="project">
+        <h4><a href="https://github.com/viniciusfrantz/pipeline_project">5. Weather Forecast Data Pipeline</a></h4>
+        <p><strong>Overview:</strong> Automated ingestion, transformation, and analysis of weather forecast data.</p>
+        <p><strong>Tools:</strong> Airflow, dbt, Snowflake, AWS S3, SQL</p>
+        <ul>
+          <li>Daily data extraction via API with Airflow.</li>
+          <li>Stored raw data in S3 and transformed in Snowflake with dbt.</li>
+          <li>Created staging and aggregated tables for precipitation accuracy analysis.</li>
+          <li>Implemented data quality tests in dbt.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="skills">
+      <h3>Skills</h3>
+      <ul>
+        <li><strong>Programming:</strong> Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)</li>
+        <li><strong>Machine Learning:</strong> Decision Trees, Random Forest, Regression, Classification</li>
+        <li><strong>Business Intelligence:</strong> Power BI, Tableau, KPI Development, Trend Analysis</li>
+        <li><strong>A/B Testing:</strong> Experimental Design, Hypothesis Testing, Statistical Analysis</li>
+        <li><strong>Data Engineering:</strong> SQL, ETL, Data Cleaning</li>
+        <li><strong>Cloud Computing:</strong> Learning AWS (IAM, EC2, RDS)</li>
+      </ul>
+    </section>
+
+    <section class="certifications">
+      <h3>Certifications</h3>
+      <ul>
+        <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/INKISM4AHVX9">Google Advanced Data Analytics (Coursera, 2025)</a></li>
+        <li>Snowflake (2025):
+          <ul>
+            <li><a href="https://achieve.snowflake.com/a84f92af-6776-4724-b95c-0dd051d73b20#acc.S0qHZatN">Hands on: Data Warehousing</a></li>
+            <li><a href="https://achieve.snowflake.com/ae631956-8730-4973-a1f1-032589e6bbab#acc.VlFahe3M">Hands on: Collaboration & Marketplace</a></li>
+            <li><a href="https://achieve.snowflake.com/535a7381-b762-4d94-ab8c-02e2039af80a#acc.MTJPcFmn">Hands on: Data Applications</a></li>
+          </ul>
+        </li>
+        <li><a href="https://credentials.getdbt.com/49738f94-c451-4122-a1c4-a0a57">dbt Fundamentals (dbt Learn, 2025)</a></li>
+      </ul>
+    </section>
+  </div>
+
+  <footer>
+    © 2025 Vinicius Giacomini Frantz
+  </footer>
+</body>
+</html>
